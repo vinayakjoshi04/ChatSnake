@@ -270,7 +270,7 @@ Contributions are welcome! To contribute:
 
 For issues, questions, or suggestions:
 - **GitHub Issues**: [Open an issue](https://github.com/yourusername/ChatSnake/issues)
-- **Email**: vinayak@example.com
+- **Email**: vinayakjoshi2004@gmail.com
 
 ---
 
